@@ -17,7 +17,7 @@ This project aims to enhance medical reasoning capabilities in compact models th
 
 **We will update&open more experimental results, datasets, weights and code as soon as possible!**
 
-### 1. Will the official distilled version of the model perform better medically than the original model? 
+### 1. Will the official distilled version of the model perform better than the original model in medical Q&A? 
 
 **Actually, Not!**
 
