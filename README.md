@@ -23,12 +23,12 @@ This project aims to enhance medical reasoning capabilities in compact models th
 
 We evaluate the official distilled R1 model on the following datasets (accuracy):
 
-| Model                | MedQA-US-TEST | MedMCQA-TEST |
+| Model                | MedQA-US-TEST | MedMCQA-VALIDATION |
 |-----------------------|-----------------|----------------|
-| GPT-40-mini        | 70.78%           | -    |
-| Qwen2.5-7B-Instruct | 50.59%           | -           |
-| DeepSeek-R1-Distill-Qwen-7B      | 38.81%      | - |
-| DeepSeek-R1-Distill-Qwen-1.5B | 27.18% | - |
+| GPT-40-mini        | 70.78    | 65.85    |
+| Qwen2.5-7B-Instruct | 50.59          | -           |
+| DeepSeek-R1-Distill-Qwen-7B      | 38.81     | - |
+| DeepSeek-R1-Distill-Qwen-1.5B | 27.18 | - |
 
 ### 2. Can distillation improve the model's reasoning ability?
 
