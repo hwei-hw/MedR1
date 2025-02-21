@@ -26,9 +26,9 @@ We evaluate the official distilled R1 model on the following datasets (accuracy)
 | Model                | MedQA-US-TEST | MedMCQA-VALIDATION |
 |-----------------------|-----------------|----------------|
 | GPT-40-mini        | 70.78    | 65.85    |
-| Qwen2.5-7B-Instruct | 50.59          | -           |
-| DeepSeek-R1-Distill-Qwen-7B      | 38.81     | - |
-| DeepSeek-R1-Distill-Qwen-1.5B | 27.18 | - |
+| Qwen2.5-7B-Instruct | 50.59          | 55.24         |
+| DeepSeek-R1-Distill-Qwen-7B      | 38.81     | 38.18 |
+| DeepSeek-R1-Distill-Qwen-1.5B | 27.18 | 32.32 |
 
 ### 2. Can distillation improve the model's reasoning ability?
 
