@@ -9,6 +9,9 @@ This project aims to enhance medical reasoning capabilities in compact models th
 - Enhanced performance on medical QA, and clinical reasoning.
 - Optimized for deployment in resource-constrained medical environments.
 
+## News
+- We released the [MedThoughts-8K](https://huggingface.co/datasets/HaoWeiCUHK/MedThoughts-8K) now (2025/02/22), which contain `7716` medical Q&A records that contains the thinking process of DeepSeek-R1.
+
 ## Features
 - **Curated Reasoning Datasets**: Fully Open distilled datasets with think process in the medical domain (~170K).
 - **Clinical-Ready Architecture**: Flexible distilled model sizes (3B/7B/13B parameter variants).
